@@ -1,5 +1,5 @@
 # Profile-README-templates
-A collection of awesome readme templates to display on your profiles
+Uma coleção de modelos readme incríveis para exibir em seus perfis
 
 ```
                              \\\\\\\
